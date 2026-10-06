@@ -4,6 +4,8 @@
 
 MarketOS turns customer behavior, marketplace and operational signals into clear recommendations. Specialized AI agents each watch one lever of a two-sided marketplace and tell the operator what to change and why.
 
+**Live demo:** https://marketos-729343096118.asia-southeast1.run.app/
+
 **Impact goal:** cut manual marketplace analysis by 80%.
 
 ## The problem
